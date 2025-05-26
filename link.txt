@@ -1,0 +1,13 @@
+git clone https://glm5.github.io/coursera-test/
+ 
+https://glm5.github.io/coursera-test/
+
+git status
+git add .
+git reset head 
+git commit -m "smal addition to uor page content."
+
+git branch
+git remote -v
+git push remote branch
+http://localhost:3000/index.html 
